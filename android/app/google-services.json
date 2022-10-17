@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "823320118337",
+    "project_id": "ecom-8f242",
+    "storage_bucket": "ecom-8f242.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823320118337:android:856bcfb3e3454c934232c0",
+        "android_client_info": {
+          "package_name": "com.omniful.ecom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "823320118337-i7omblldeqs2phcanc3eqoa0vfi86hjv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJCqPAfgUgCDb4mTiow8YqAMoxUcjkf8E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "823320118337-i7omblldeqs2phcanc3eqoa0vfi86hjv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
